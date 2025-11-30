@@ -12,8 +12,8 @@ body {
 }
 
 .window {
-  width: 580px;
-  height: 360px;
+  width: 620px;
+  height: 400px;
   background: #FFFFFA;
   border-radius: 12px;
   border: 2px solid #624444;
@@ -42,7 +42,7 @@ body {
 }
 
 .fruit {
-  width: 160px;
+  width: 180px;
   position: absolute;
   right: 70px;
   top: 25%;
@@ -62,7 +62,7 @@ h1 {
   font-family: "Zen Kaku Gothic Antique", sans-serif;
   letter-spacing: 0.05em;
   padding-left: 50px;
-  font-size: 44px;
+  font-size: 50px;
   line-height: 1.1; 
   margin: 15;
   font-weight: 1000;
@@ -70,21 +70,21 @@ h1 {
 .sub {
   margin-top: -10px;
   font-family: "JetBrains Mono", monospace;
-  font-size: 12px;
+  font-size: 14px;
   padding-left: 60px;
   line-height: 1.6;  
   opacity: 0.65;
 }
 .download {
   font-family: "JetBrains Mono", monospace;
-  font-size: 20px;
+  font-size: 22px;
   padding-left: 50px;
   text-decoration: none;
   color: black;
 }
 .note {
   margin-top: 20px;
-  padding-left: 40px;
+  padding-left: 42px;
   font-family: "Zen Kaku Gothic Antique", sans-serif;
   font-size: 12px;
   opacity: 0.65;
